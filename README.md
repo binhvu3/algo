@@ -9,3 +9,4 @@
 - CC (connected components): Each cluster into 1 category. Each node in category is connected.
 
 ### Directed Graph
+- Strong Component: digraph that have in and out. Similar to CC.
