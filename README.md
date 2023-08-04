@@ -22,4 +22,7 @@
   - Two version (1) Lazy and (2) Eager
 - 
 ### Priority Queue
-- Use binary heap as data structure  <a href="https://www.youtube.com/watch?v=AE5I0xACpZs">What is a Binary Heap?<a>
+- Use binary heap as data structure  <a href="https://www.youtube.com/watch?v=AE5I0xACpZs">What is a Binary Heap?</a>
+
+## Shortest Path
+- Generic Shortest-path: check from 0-inf and relax any edge. 
