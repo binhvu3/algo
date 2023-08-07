@@ -26,7 +26,7 @@
 ## Shortest Path
 - Generic Shortest-path: check from 0-inf and relax any edge.
 - <a href="https://youtu.be/_lHSawdgXpI?t=31">What is edge relaxation?</a> Initalize first node w/ 0 and everything else inf. Update/relax edge based on weights.
-- <a href="https://youtu.be/_lHSawdgXpI">Dijkstra's algo (non-negative weights)</a>: similar start to Generic, keep track of total distance from root, update path if better weight found. <a href="https://youtu.be/uzHJXbToiIU?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=127">demo</a>
+- <a href="https://youtu.be/_lHSawdgXpI">Dijkstra's algo (non-negative weights)</a>: similar start to Generic, keep track of total distance from root, update path if better weight found. check all nodes. <a href="https://youtu.be/uzHJXbToiIU?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=127">demo</a>
 - <a href="test">Topological Sort (no directed cycles)</a>: Find the lowest weight from the choosen node.<a href="https://youtu.be/Qp9zy9qMJzE?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=42">demo</a>
 - <a href="https://www.youtube.com/watch?v=obWXjtg0L64">Bellman-Ford (no negative cycle)</a>: Double relaxation w/ v-1 iteration <a href="https://youtu.be/A54rUI6CPSs?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=406">demo</a>
 
