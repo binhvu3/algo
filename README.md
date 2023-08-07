@@ -17,7 +17,7 @@
 ## Minimum Spanning Tree (MST)
 - Graph with weights -> find the lowest
 - Kruskal's: sort weight lowest to highest, go down and add unless it create a cycle
-- Prim's: Start at node #0, check node 1 step away, take the lowest usinng Priority Queue (PQ). 
+- Prim's: Start at node #0, check node 1 step away, take the lowest using Priority Queue (PQ). 
   - Two version (1) Lazy and (2) Eager
 - 
 ### Priority Queue
@@ -54,7 +54,7 @@
 - Flow = weight w/ capacity. Water through a pipe. 
 - Every node need to have a balance inflow & outflow
 
-
+![Min Cut Max Flow](resource/min_cut_max_flow.png)
 
 
 <a href="link">Template</a>
