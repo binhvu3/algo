@@ -39,3 +39,29 @@
 - <a href="https://www.youtube.com/watch?v=9PHkk0UavIM">Differences b/w Dijkstra vs Bellman-Ford</a>
 
 ![Shortest path summary](resource/shortest_path.png)
+
+## Maximum Flow
+- <a href="https://www.youtube.com/watch?v=Tl90tNtKvxs">Ford-Fulkerson</a>:  
+
+### Mincut Porblem
+- Find the minimum capacity (capacity == weights)
+
+#### Application
+- Cold-war: Cut of railroad network of adversary at the cheapest cose
+- Government-in-power: Cut of communication to a set of people
+
+### Maxflow Problem
+- Flow = weight w/ capacity. Water through a pipe. 
+- Every node need to have a balance inflow & outflow
+
+
+
+
+<a href="link">Template</a>
+
+
+
+
+
+
+
