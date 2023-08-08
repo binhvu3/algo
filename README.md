@@ -56,8 +56,19 @@
 
 ![Min Cut Max Flow](resource/min_cut_max_flow.png)
 
+## Key-Indexed Counting
+- count all element in list -> Create a cumulative sum of that count as index limits -> sort using that cumulative sum. 
 
-<a href="link">Template</a>
+## Radix LSD (Least Significant Digit) Sort
+- Search from left to right using separate for loop. <a href="https://youtu.be/n7jfknr2Bxw?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=191">Demo</a>
+
+### MSD (Most Significant Digit)
+- Start from right and recursively order each column. <a href="https://youtu.be/1XdrDjreqJM?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=101">Demo</a>
+
+## 3-ways String Quicksort
+- <a href="https://youtu.be/QwzPkViilYA?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=139">Demo</a> 
+
+<a href="link">Demo</a>
 
 
 
