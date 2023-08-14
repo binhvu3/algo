@@ -66,7 +66,7 @@
 - Start from right and recursively order each column. <a href="https://youtu.be/1XdrDjreqJM?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=101">Demo</a>
 
 ## 3-ways String Quicksort
-- <a href="https://youtu.be/QwzPkViilYA?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=139">Demo</a> 
+- Similar to quick sort but segmented. <a href="https://youtu.be/QwzPkViilYA?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=139">Demo</a> 
 
 <a href="link">Demo</a>
 
