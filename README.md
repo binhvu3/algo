@@ -68,10 +68,21 @@
 ## 3-ways String Quicksort
 - Similar to quick sort but segmented. <a href="https://youtu.be/QwzPkViilYA?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=139">Demo</a> 
 
+## Suffix Sorting
+- Use a <a href="https://youtu.be/V2yMD-vpndA?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=406">form suffixes</a> and sort MSD then binary search. <a href="https://youtu.be/V2yMD-vpndA?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=137">Demo</a>
+### Application 
+- keyword-in-context search: crt+f, highlight the desired word and the wording around it.
+
+- Longest repeated substring: 
+
+## Suffix Array - Manber-Mybers Algo:
+- O(N): Linear time complexity. <a href="https://youtu.be/V2yMD-vpndA?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=790">Demo</a>
+
+## Tries (data type)
+- <a href="https://youtu.be/el9-Vb6iNPM?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=431">Tries Demo</a>: 
+- <a href="https://www.youtube.com/watch?v=qvZGUFHWChY">Red-Black BST (Binary Search Tree) </a>: Type of balanced search tree 
+___
 <a href="link">Demo</a>
-
-
-
 
 
 
