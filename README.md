@@ -56,6 +56,7 @@
 
 ![Min Cut Max Flow](resource/min_cut_max_flow.png)
 
+# String Symbol
 ## Key-Indexed Counting
 - count all element in list -> Create a cumulative sum of that count as index limits -> sort using that cumulative sum. 
 
@@ -74,13 +75,35 @@
 - keyword-in-context search: crt+f, highlight the desired word and the wording around it.
 
 - Longest repeated substring: 
-
+[README.md](README.md)
 ## Suffix Array - Manber-Mybers Algo:
 - O(N): Linear time complexity. <a href="https://youtu.be/V2yMD-vpndA?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=790">Demo</a>
 
-## Tries (data type)
+## R-ways Tries (data type)
 - <a href="https://youtu.be/el9-Vb6iNPM?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=431">Tries Demo</a>: 
 - <a href="https://www.youtube.com/watch?v=qvZGUFHWChY">Red-Black BST (Binary Search Tree) </a>: Type of balanced search tree 
+### Patricia Trie/Radix Tree
+- Remove one-way branching
+
+### Suffix Tree
+- Patricia Trie/Radix Tree of suffixes of a string
+
+## TST -Ternary Search Tries
+- Data structure with exact three child nodes. Left < val, Mid == val, Right > val.
+- Search: match go down.
+- <a href="https://youtu.be/CqE9My0ErRI?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=444">Demo1</a>
+- <a href="https://www.youtube.com/watch?v=bWaXdxEHaag">Demo2</a>
+
+### Alternative Version
+- TST with R^2 branching at root
+
+![String search](resource/string_search.png)
+
+# Sub-string Search
+
+
+
+
 ___
 <a href="link">Demo</a>
 
