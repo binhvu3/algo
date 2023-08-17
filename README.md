@@ -100,10 +100,15 @@
 ![String search](resource/string_search.png)
 
 # Sub-string Search
+## Knuth-Morris-Pratts
+- Build on top of the idea of <a href="https://youtu.be/wpcXh0RylPw?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=193">Deterministic Finite State Automaton (DFA)</a> 
 
+## Boyer-Moore
 
+## Rabin-Karp
+- Hash target val and compare with list.
 
-
+![sub-String search](resource/substring_search.png)
 ___
 <a href="link">Demo</a>
 
