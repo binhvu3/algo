@@ -112,10 +112,20 @@
 
 
 # Regular Expression
+- <a href="https://www.youtube.com/@lydia-.">Good YouTube Channel to Watch</a>`
 
+
+## Nondeterministic Finite Automaton (NFA)
+- Similar to char matching algo but with 2 transition state. <a href="https://youtu.be/DFTF_SG9pgI?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&t=572">Demo</a>
+- Find set of state that is reachable {1,2,3}
+
+### Application
+- GREP used in Unix bak in the day
+
+### Differences between DFA and NFA
+- DFA state is known is predetermined, NFA have could have multiple states
 ___
 <a href="link">Demo</a>
-
 
 
 
